@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@hiruniapsara)
 
-- 📫 Reach me at **2020icts12@vau.jfn.ac.lk**
+- - 📫 Reach me at [2020icts12@vau.jfn.ac.lk](mailto:2020icts12@vau.jfn.ac.lk)
 
 ---
 

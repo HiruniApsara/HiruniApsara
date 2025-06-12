@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Hiruni Apsara</h1>
+<h1 align="center">Hi 👋, I'm Hiruni Apsara</h1>
 <h3 align="center">A passionate coder from Sri Lanka</h3>
 
 <p align="left">
@@ -14,23 +14,7 @@
 - 📫 Reach me at [hirunijayalath23@gmail.com](mailto:hirunijayalath23@gmail.com?subject=Contact%20from%20GitHub)
 
 ---
--->
-<h1 align="center">Hi 👋, I'm Hiruni Apsara</h1>
-<h3 align="center">A passionate coder from Sri Lanka</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hiruniapsara&label=Profile%20views&color=0e75b6&style=flat" alt="hiruniapsara" />
-</p>
-
-- 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **HTML, CSS, and JavaScript**
-- 📝 I regularly write articles on [Medium](https://medium.com/@hiruniapsara)
-- 📫 Reach me at [apsarah979@gmail.com](mailto:apsarah979@gmail.com?subject=Contact%20from%20GitHub) or copy my email: `apsarah979@gmail.com`
-- 💻 Check out my projects: [My Portfolio](https://github.com/hiruniapsara/portfolio)
-
-![HTML](https://img.shields.io/badge/-HTML-0e75b6?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0e75b6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0e75b6?style=flat&logo=javascript)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hiruni-apsara-b5b852246" target="_blank">

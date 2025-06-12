@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@hiruniapsara)
 
-- 📫 Reach me at [hirunijayalath23@gmail.com](mailto:hirunijayalath23@gmail.com)
+- 📫 Reach me at [apsarah979@gmail.com](mailto:apsarah979@gmail.com)
 
 ---
 
